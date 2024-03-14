@@ -33,3 +33,5 @@ newindex = 'CA NY WY OR CO'.split()
 df["States"] = newindex
 print(df)
 
+
+
